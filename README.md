@@ -1,4 +1,35 @@
-# ERP-system
+# EMKA-trans
+
+EMKA-trans is a web application designed to be used by transportation companies.
+
+The functionalities include:
+
+*Company owner:
+  Mapping the route,
+  Manual route calculation,
+  Defining routes transport,
+  Automatic travel determination,
+  Order monitoring,
+  Checking system data,
+  Sending confirmation to the customer's email address about the order,
+  Valuation of the order,
+  Description of products, their quantity, data collection
+
+*Customer of the company:
+  Registration, Log in,
+  Profile management,
+  Orders management,
+  The history of orders,
+  Current orders ,
+  Expected delivery date,
+  Calculating the price of the order,
+  Date of payment,
+
+*Company supplier:
+  Registration,Log in,
+  Profile management,
+  Management of available products,
+  API for uploading excel
 
 Installation and set up:
 ```
@@ -14,5 +45,4 @@ $ source myvenv/bin/activate
 (myvenv) ~$ python manage.py makemigrations
 (myvenv) ~$ python manage.py migrate
 (myvenv) ~$ python manage.py runserver
-
 ```
