@@ -1,4 +1,5 @@
-# EMKA-trans
+ <img height="150" width="150" src="https://github.com/krzeelzb/ERP-system/blob/master/emka_trans/static/img/logo_text.png" alt="EMKA-trans logo"/> 
+
 
 EMKA-trans is a web application designed to be used by transportation companies.
 
@@ -30,6 +31,9 @@ The functionalities include:
   Profile management,
   Management of available products,
   API for uploading excel
+
+
+
 
 Installation and set up:
 ```
